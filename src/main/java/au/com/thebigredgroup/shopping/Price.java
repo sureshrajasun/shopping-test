@@ -2,8 +2,6 @@ package au.com.thebigredgroup.shopping;
 
 import java.math.BigDecimal;
 import java.util.Objects;
-import java.math.BigDecimal;
-import java.util.Objects;
 
 public class Price {
     private final BigDecimal amount;

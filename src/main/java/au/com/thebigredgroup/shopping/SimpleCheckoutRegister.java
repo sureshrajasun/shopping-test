@@ -1,6 +1,7 @@
 package au.com.thebigredgroup.shopping;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class SimpleCheckoutRegister implements CheckoutRegister {
     private final ProductStore productStore;
