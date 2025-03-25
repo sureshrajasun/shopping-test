@@ -1,0 +1,21 @@
+# Ignore Gradle build folders
+.gradle/
+build/
+
+# Ignore compiled Java class files
+*.class
+*.bin
+
+# Ignore frontend assets (if applicable)
+*.css
+*.js
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+*.iml
+*.log
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
