@@ -1,7 +1,6 @@
 package au.com.thebigredgroup.shopping;
 
 public class Product {
-
     private final String sku;
     private final String name;
     private final Price price;
